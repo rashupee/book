@@ -2,7 +2,7 @@ Introduction
 	characterizing and quantifying motion- important to be precise.
 
 	The concepts are:
-		background / inertial reference frame / map
+		background / inertial reference frame / map / first effort at modelling (spatial model of the space and the objects in it)
 			versus point of view
 			non-inertial frames
 
@@ -20,9 +20,12 @@ Introduction
 
 		instantaneous / average
 
-		the motion of an object IS THE SAME AS the instantaneous velocity of an object. If the velocity of an object is changing, the object's motion is changing. If the velocity is not changing then the object's motion is constant.
+		Difficult topic-
+			Helpful language could be 'at this moment the motion is changing from ... to ...' or 'during this time duration the motion only has one value and does not change'
 
-			going around in a circle. is this a constant motion? NO
+			the motion of an object IS THE SAME AS the instantaneous velocity of an object. If the velocity of an object is changing, the object's motion is changing. If the velocity is not changing then the object's motion is constant.
+
+				going around in a circle. is this a constant motion? NO
 
 
 
