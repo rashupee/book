@@ -134,33 +134,36 @@ EARTH - MOON System Example
 
 	In fact, instead of saying that the earth goes around the sun in 365 days, it turns out that it's better to say: 'The earth - moon system takes a year to go around the sun.'
 
-	Let's realize some more data about the Earth - Moon system example above. The moon takes about 28 days to complete its orbit around the earth. This is where the basic quantity of time called the 'month' comes from. That is, both the motion of the earth - moon system around the sun and the motion of the moon around the earth are PERIODIC. That is, the motions repeat (365 days around the sun; 28 days around the earth).
+	Let's realize some more data about the Earth - Moon system example above. The moon takes about 28 days to complete its orbit around the earth. This is where the basic quantity of time called the 'month' comes from. That is, both the motion of the earth - moon system around the sun and the motion of the moon around the earth are PERIODIC. That is, the motions repeat (365 days for earth - moon system to finish one trip around the sun; 28 days for the moon to finish one trip around the earth).
 
-	Another basic thing to realize is that as we talk and think and conceptualize about the various objects involved (Earth, Moon, Sun, in the above example), we can imagine these things as entities by themselves. That is, we can imagine the moon without thinking about the earth or the sun. And we can imagine the earth without thinking about the sun or the moon. Of course conditions on the earth or moon would be very different without the sun nearby, but these objects in our physical system can be thought of as separate.
+	Another basic thing to realize is that as we talk and think and conceptualize about the various objects involved (Earth, Moon, Sun, in the above example), we can imagine these things as entities by themselves. That is, we can imagine the moon without thinking about the earth or the sun. And we can imagine the earth without thinking about the sun or the moon. Of course conditions on the earth or moon would be very different without the sun nearby, but these objects in our physical system can be thought of as separate and each could be imagined as existing even if the others did not.
 
 	So the physicist doesn't just think about systems of objects, but the physicist also imagines that they can think about the object on its own.
 
 INTERNAL OBJECTS, EXTERNAL OBJECTS, INTERACTION
 
-	In the above Earth - Moon System example, the physical system is just two objects: the earth and the moon. We say that the Earth and the Moon are INTERNAL OBJECTS to that physical system. In contrast, the Sun is considered an EXTERNAL OBJECT to the Earth - Moon System.
+	In the above Earth - Moon System example, the physical system is just two objects: the earth and the moon. We say that the Earth and the Moon are INTERNAL OBJECTS to that physical system. In contrast, our Sun is considered an EXTERNAL OBJECT to the Earth - Moon System.
 
-	I'm sure that you've heard this before but the reason the Earth and Moon are 'stuck' to each other is gravity. Gravity is the INTERACTION between the Earth and the Moon in the Earth - Moon system. If there was no gravitational attraction between the Earth and the Moon, there is no reason for the Earth and Moon to be stuck to each other.
+	I'm sure that you've heard this before but part of the reason the Earth and Moon are 'stuck' to each other is gravity. Gravity is the INTERACTION between the Earth and the Moon in the Earth - Moon system. If there was no gravitational attraction between the Earth and the Moon, there is no reason for the Earth and Moon to be stuck to each other. Gravity does not just happen between the earth and moon but actually happens between any pair of objects. So gravity happens between you and the earth (this is called your weight), between the earth and the sun, between the sun and you, between the sun and the moon, etc. In fact, gravity happens between any thing and any other thing in the universe. We will talk more about gravity in another section of this text.
+
+	Gravity is not the only type of interaction objects can have with each other. 
 
 DEFINITION OF A PHYSICAL SYSTEM
 
 	In order to define a physical system a scientist lists out the objects within the system and also identifies or imagines how those objects interact.
 
 	The Earth - Moon System would be described this way:
-		INTERNAL OBJECTS:
-			Earth
-			Moon
 
-		EXTERNAL OBJECTS:
-			Sun
-			Everything else in the universe :)
+		Earth - Moon System
+			INTERNAL OBJECTS:
+				Earth
+				Moon
 
-		INTERACTION:
-			Gravitational attraction between any pair of objects
+			EXTERNAL OBJECTS:
+				Everything else in the universe :)
+
+			INTERACTION:
+				Gravitational attraction between any pair of objects
 
 ANOTHER EXAMPLE
 
@@ -177,11 +180,36 @@ ANOTHER EXAMPLE
 		INTERACTION:
 			Heat flows from warmer objects to cooler objects until there are no longer differences in temperature
 
+
+
 	**** NOTES *****
 		not periodic!
 		Objects can be fluid
 		what if we further included some air or the container?
 		why didn't we include the temperature? 
+
+
+
+
+ANOTHER EXAMPLE
+
+	You know that things are made of atoms and there are many different types of atoms with different names. Some types of atoms include oxygen, hydrogen, uranium, gold, and iron. Let's think about the heavy iron bolt in the previous example.
+
+	An iron bolt made of pure iron is composed of a VERY LARGE number of individual iron atoms. Since we are imagining pure iron, there are no other types of atoms in this iron bolt. And these individual iron atoms are 'stuck' to their neighbors by so-called metallic bonds.
+
+	So, really, our iron bolt is itself a physical system of iron atoms. We could DEFINE an iron bolt physical system this way:
+
+		Iron Bolt System
+			INTERNAL OBJECTS:
+				A very large number of iron atoms
+
+			EXTERNAL OBJECTS:
+				Everything else in the universe
+
+			INTERACTION:
+
+
+	The truth is, though, that a large sample of pure iron is VERY uncommon. For example, an iron bolt that helps to hold a bridge together is likely to have a coating of rust. Rust is when oxygen and hydrogen atoms are mixed in with iron atoms and the process of the rusting of iron is called oxidation.
 
 
 
