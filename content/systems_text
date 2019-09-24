@@ -45,7 +45,7 @@ Astronomers use telescopes and other technologies to observe and catalog the obj
 
 	Sun, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto.
 
-It turns out this is an incomplete list. For example, what about Earth's single moon? What about all the big an little objects that make up Saturn's rings? Did you know that ?????? Neptune ?????? has more than one moon?  
+It turns out this is an incomplete list. For example, what about Earth's single moon? What about all the big and little objects that make up Saturn's rings? Did you know that ?????? Neptune ?????? has more than one moon?  
 
 INTERNAL OBJECTS
 
@@ -107,7 +107,7 @@ I'm sure you've heard of many different systems-
 	8. a region's system of roads and highways;
 	9. a person's system for doing their taxes.
 
-The systems that someone will have experiences with are likely systems associated with their work or their natural interests. A law student will, of course, be interested in f. But this law student may also conceivably be interested in all of the others except maybe a. 
+The systems that someone will have experiences with are likely systems associated with their work or their natural curiosities. A law student will, of course, be interested in number 6. But this law student may also conceivably be interested in many of the others.
 
 Since this book is about physics, though, you are going to learn to explore a very particular type of system that we'll refer to as a PHYSICAL SYSTEM. In fact, the best way to summarize your learning goals at this introductory level is:
 
@@ -118,5 +118,83 @@ The way physicists often work is they notice an interesting or unexpected physic
 
 In some cases a physicist is able to construct a physical system and then experiment with the system in as many different ways they can think of (and can pay for!), all the while recording how their system reacts to what the scientists are doing.
 
-In other cases the scientist may just observe the system in as many different ways they can think of, carefully recording how all of the internal and external parts of the system interact with each other.  **** THIS IS VAGUE AND PROBABLY DIFFICULT TO UNDERSTAND WITHOUT A CONCRETE EXAMPLE ****
+In other cases the scientist may just observe the system in as many different ways they can think of, carefully recording how all of the internal and external parts of the system interact with each other.  **** THIS IS VAGUE AND PROBABLY DIFFICULT TO UNDERSTAND WITHOUT A CONCRETE EXAMPLE **** For example, a scientist cannot mock up a solar system and then do experiments on it. 
+
+
+
+
+*********************  Another do-over *********************
+
+
+An important organizational idea in both learning and doing physics is the PHYSICAL SYSTEM. A very basic example of this is our Earth - Moon system.
+
+EARTH - MOON System Example
+	
+	Our planet and our moon seem to be 'stuck' to each other. You know that our planet earth is on a trajectory or orbit around our sun. It takes a year for the earth to travel once around the sun in its orbit before starting the trip over again. But if you think about it, earth's moon is always along for the ride.
+
+	In fact, instead of saying that the earth goes around the sun in 365 days, it turns out that it's better to say: 'The earth - moon system takes a year to go around the sun.'
+
+	Let's realize some more data about the Earth - Moon system example above. The moon takes about 28 days to complete its orbit around the earth. This is where the basic quantity of time called the 'month' comes from. That is, both the motion of the earth - moon system around the sun and the motion of the moon around the earth are PERIODIC. That is, the motions repeat (365 days around the sun; 28 days around the earth).
+
+	Another basic thing to realize is that as we talk and think and conceptualize about the various objects involved (Earth, Moon, Sun, in the above example), we can imagine these things as entities by themselves. That is, we can imagine the moon without thinking about the earth or the sun. And we can imagine the earth without thinking about the sun or the moon. Of course conditions on the earth or moon would be very different without the sun nearby, but these objects in our physical system can be thought of as separate.
+
+	So the physicist doesn't just think about systems of objects, but the physicist also imagines that they can think about the object on its own.
+
+INTERNAL OBJECTS, EXTERNAL OBJECTS, INTERACTION
+
+	In the above Earth - Moon System example, the physical system is just two objects: the earth and the moon. We say that the Earth and the Moon are INTERNAL OBJECTS to that physical system. In contrast, the Sun is considered an EXTERNAL OBJECT to the Earth - Moon System.
+
+	I'm sure that you've heard this before but the reason the Earth and Moon are 'stuck' to each other is gravity. Gravity is the INTERACTION between the Earth and the Moon in the Earth - Moon system. If there was no gravitational attraction between the Earth and the Moon, there is no reason for the Earth and Moon to be stuck to each other.
+
+DEFINITION OF A PHYSICAL SYSTEM
+
+	In order to define a physical system a scientist lists out the objects within the system and also identifies or imagines how those objects interact.
+
+	The Earth - Moon System would be described this way:
+		INTERNAL OBJECTS:
+			Earth
+			Moon
+
+		EXTERNAL OBJECTS:
+			Sun
+			Everything else in the universe :)
+
+		INTERACTION:
+			Gravitational attraction between any pair of objects
+
+ANOTHER EXAMPLE
+
+	A heavy iron bolt is removed from a hot oven and gently placed in 1 Liter of cold water. What happens is the warm bolt warms the cold water and the cold water cools the warm bolt until the bolt and water have the same temperature.
+
+	Let's claim the following physical system:
+		INTERNAL OBJECTS:
+			Bolt
+			Water
+
+		EXTERNAL OBJECTS:
+			Everything else in the universe
+
+		INTERACTION:
+			Heat flows from warmer objects to cooler objects until there are no longer differences in temperature
+
+	**** NOTES *****
+		not periodic!
+		Objects can be fluid
+		what if we further included some air or the container?
+		why didn't we include the temperature? 
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
 
