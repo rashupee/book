@@ -160,7 +160,7 @@ DEFINITION OF A PHYSICAL SYSTEM
 				Moon
 
 			EXTERNAL OBJECTS:
-				Everything else in the universe :)
+				Everything else in the universe
 
 			INTERACTION:
 				Gravitational attraction between any pair of objects
@@ -186,7 +186,7 @@ ANOTHER EXAMPLE
 		not periodic!
 		Objects can be fluid
 		what if we further included some air or the container?
-		why didn't we include the temperature? 
+		why didn't we include the temperature as an object or issue of some sort- it seems important? 
 
 
 
@@ -199,7 +199,7 @@ ANOTHER EXAMPLE
 
 	So, really, our iron bolt is itself a physical system of iron atoms. We could DEFINE an iron bolt physical system this way:
 
-		Iron Bolt System
+		Pure Iron Bolt System
 			INTERNAL OBJECTS:
 				A very large number of iron atoms
 
@@ -207,9 +207,48 @@ ANOTHER EXAMPLE
 				Everything else in the universe
 
 			INTERACTION:
+				Metallic bonding between adjacent iron atoms
+
+	The truth is, though, that a large sample of pure iron is VERY uncommon. For example, an iron bolt that helps to hold a bridge together is likely to have a coating of rust. Rust is when oxygen and hydrogen atoms are mixed in with iron atoms and the process of the rusting of iron is called oxidation. How might we define a physical system for a rusted iron bolt?
+
+		Rusty Iron Bolt System
+			INTERNAL OBJECTS:
+				A very large number of iron atoms
+				A bunch of oxygen atoms
+				A bunch of hydrogen atoms
+
+			EXTERNAL OBJECTS:
+				Everything else in the universe
+
+			INTERACTION:
+				Metallic bonding between adjacent iron atoms
+				Various types of bonding between adjacent oxygen, hydrogen and iron atoms
+
+YET ANOTHER EXAMPLE
+
+	Let's think a little more about atoms. Let me tell you about an iron atom. If you pick an iron atom at random from somewhere in the universe it is most likely to be the following physical system:
+
+		Neutral Iron Atom System
+			INTERNAL OBJECTS:
+				Nucleus
+					26 Protons
+					30 Neutrons
+				26 Electrons
+
+			EXTERNAL OBJECTS:
+				Everything else in the universe
+
+			INTERACTIONS:
+				Strong Nuclear Forces between Neutrons and Protons in the nucleus
+				Electric Attraction between the positively charged nucleus and the negatively charged electrons
+				Electric Repulsion between the electrons
 
 
-	The truth is, though, that a large sample of pure iron is VERY uncommon. For example, an iron bolt that helps to hold a bridge together is likely to have a coating of rust. Rust is when oxygen and hydrogen atoms are mixed in with iron atoms and the process of the rusting of iron is called oxidation.
+
+
+
+
+
 
 
 
